@@ -1,2 +1,2 @@
 # Html-portfolio
-Shibam PAin portfolio website
+Shibam Pain portfolio website
